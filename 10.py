@@ -1,4 +1,4 @@
-x = 20 # declaration and assigning value to x
+x = int(20) # declaration and assigning value to x
 
 print(x) # prints the value of x to the screen
 
