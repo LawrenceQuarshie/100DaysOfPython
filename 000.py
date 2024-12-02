@@ -1,9 +1,5 @@
-thistuple = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
+txtnum = (12, 5, 11, 4, 3, 10, 9, 4, 7)
 
-print(thistuple[-4:-1])
+x = txtnum.index(4)
 
-# Negative indexing means starting from the end of the tuple.
-
-# This example returns the items from index -4 (included) to index -1 (excluded)
-
-# Remember that the last item has the index -1
+print(x)
