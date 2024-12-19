@@ -1,3 +1,5 @@
-msi = ("circuits", 74161, "counter", 1000, "gates")
+thisset = {"apple", "banana", "cherry"}
 
-print(msi[-4:-1])
+thisset.add("orange")
+
+print(thisset)
