@@ -1,4 +1,3 @@
-thistuple = ("apple", "banana", "cherry")
+thisset = {"apple", "banana", "cherry", "apple"}
 
-if "apple" in thistuple:
-    print("Yes, 'apple' is in the fruits tuple")
+print(thisset)
