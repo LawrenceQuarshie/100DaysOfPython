@@ -1,6 +1,6 @@
 phone = {
-    "brand": "Ford",
-    "model": "Mustang",
+    "brand": "Apple",
+    "model": "iPhone 6",
     "year": 2014
 }
 
